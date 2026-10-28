@@ -1,5 +1,5 @@
 services:
-  - conf:
+  - conf:100
       loadWMF: true
       useSelser: true
       # traceFlags:
